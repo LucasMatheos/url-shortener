@@ -20,12 +20,6 @@ app.get("/:hash", (req: Request, res: Response) => {
 });
 
 
-app.get("/", (req: Request, res: Response) => {
-  res.redirect('https://www.google.com');
-});
-
-
-
 
 app.listen(5000, () => {
   console.log("HTTP server running");
