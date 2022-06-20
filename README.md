@@ -46,6 +46,6 @@ Retorno:
 }
 ```
 
-Utilizar o `hash` a partir do browser: `[http://localhost:5000/naiCYp8md](http://localhost:5000/naiCYp8md)` para testar o redirecionamento.
+Utilizar o `hash` a partir do browser: `http://localhost:5000/naiCYp8md` para testar o redirecionamento.
 
 ###
